@@ -1,4 +1,4 @@
-# SoT-InteractiveMap
+# Status-of-IP-Treaties-Map
 
 by Jeremy Baarbé
 
