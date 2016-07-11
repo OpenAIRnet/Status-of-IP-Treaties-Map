@@ -1,6 +1,6 @@
 # Status-of-IP-Treaties-Map
 
-by Jeremy Baarbé
+by Jeremy Baarbé @baarbeh
 
 Status of Treaties Interactive Map - Open AIR
 
