@@ -1,4 +1,7 @@
 # SoT-InteractiveMap
+
+by Jeremy Baarbé
+
 Status of Treaties Interactive Map - Open AIR
 
 This interactive map shows the number of international Intellectual Property treaties ratified by African countries between 1885 and 2015.
